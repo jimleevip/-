@@ -1,0 +1,13 @@
+Centos6.8
+客户机操作系统 CentOS 6 (64 位)
+兼容性 ESXi 6.5 及更高版本 (虚拟机版本 13)
+VMware Tools 否
+CPU 2
+内存 3.91 GB
+root -p 12345678
+
+lnmp安装
+https://lnmp.org/install.html
+
+
+
